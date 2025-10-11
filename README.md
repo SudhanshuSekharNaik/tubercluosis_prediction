@@ -141,7 +141,8 @@ Precision	~0.76	Reliable positive predictions
 The project generates several key visualizations:
 
 1. Confusion Matrix
-https://outputs/confusion_matrix.png
+<img width="737" height="560" alt="Screenshot 2025-10-11 124701" src="https://github.com/user-attachments/assets/8625d128-200a-410d-8d14-1aa4634890a7" />
+
 
 Shows model prediction accuracy
 
@@ -150,7 +151,8 @@ Includes performance metrics
 Color-coded for easy interpretation
 
 2. ROC Curve
-https://outputs/roc_curve.png
+<img width="788" height="591" alt="image" src="https://github.com/user-attachments/assets/717da0ff-2927-450d-ba7c-10c068b136af" />
+
 
 Displays model discrimination ability
 
@@ -159,7 +161,8 @@ Highlights AUC score
 Compares against random classifier
 
 3. Feature Importance
-https://outputs/feature_importance.png
+<img width="979" height="582" alt="image" src="https://github.com/user-attachments/assets/50be6e71-f0e6-4a51-b60b-223f9310ac0c" />
+
 
 Shows odds ratios for each risk factor
 
