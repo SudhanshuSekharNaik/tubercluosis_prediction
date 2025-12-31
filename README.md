@@ -139,17 +139,23 @@ probability, prediction = predictor.predict_patient_risk(patient_features)
 The system generates three key visualizations:
 
 ### 1. Confusion Matrix
-![Confusion Matrix](https://via.placeholder.com/600x400/3498db/ffffff?text=Confusion+Matrix)
+![Confusion Matrix]
+<img width="693" height="607" alt="Screenshot 2025-12-31 221325" src="https://github.com/user-attachments/assets/09fd638c-51ba-4a3c-b4c8-d495fac2b655" />
+
 - Shows true/false positives and negatives
 - Visual representation of model accuracy
 
 ### 2. ROC Curve
-![ROC Curve](https://via.placeholder.com/600x400/2ecc71/ffffff?text=ROC+Curve)
+![ROC Curve]
+<img width="722" height="609" alt="Screenshot 2025-12-31 221332" src="https://github.com/user-attachments/assets/78072dee-0fb4-4ee2-bb67-90edbbf60317" />
+
 - Displays trade-off between sensitivity and specificity
 - AUC score indicates overall model performance
 
 ### 3. Feature Importance
-![Feature Importance](https://via.placeholder.com/600x400/e74c3c/ffffff?text=Feature+Importance)
+![Feature Importance]
+<img width="993" height="588" alt="Screenshot 2025-12-31 221336" src="https://github.com/user-attachments/assets/83452fbd-ce9c-4ff3-a816-1693e2434915" />
+
 - Odds ratios show relative importance of each feature
 - Helps understand what drives predictions
 
